@@ -1,0 +1,9 @@
+D:\Христя\kursova\s_1\s_1\bin\Debug\s_1.exe.config
+D:\Христя\kursova\s_1\s_1\bin\Debug\s_1.exe
+D:\Христя\kursova\s_1\s_1\bin\Debug\s_1.pdb
+D:\Христя\kursova\s_1\s_1\obj\Debug\s_1.csprojResolveAssemblyReference.cache
+D:\Христя\kursova\s_1\s_1\obj\Debug\s_1.Main.resources
+D:\Христя\kursova\s_1\s_1\obj\Debug\s_1.Properties.Resources.resources
+D:\Христя\kursova\s_1\s_1\obj\Debug\s_1.csproj.GenerateResource.Cache
+D:\Христя\kursova\s_1\s_1\obj\Debug\s_1.exe
+D:\Христя\kursova\s_1\s_1\obj\Debug\s_1.pdb
